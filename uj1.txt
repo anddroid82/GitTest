@@ -1,7 +1,7 @@
 uj1 tartalom
-uj1 másik sor
+uj1 mÃ¡sik sor
 uj1 harmadik sor
 negyedik sor
-ötödik sor
+Ã¶tÃ¶dik sor
 hatodik sor
-hetedik sor
+hetedik sor : 2
